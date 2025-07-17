@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Juan Pedro, Electronic engineer, Data Scientist and Master's student in Electronic and Computer Engineering.
-- ✈️ I currently work at an aeronautical company with critical embedded software projects.
+- ✈️ I currently work at an Aeronautical company with critical embedded software projects.
 - 👀 I’m interested in disruptive technologies, innovation, development and make things happen!
-- 🚀 I’m currently learning all about Critical embedded systems in C and C++, especially bare metal code, low level programming and software testing tools with Python...
+- 🚀 I love learning all about Critical embedded systems, especially bare metal code in C and C++, low level programming in assembly and software testing tools with Python...
 - 💞️ I’m looking to collaborate on interesting and innovative projects.
 - 🤖 I also love drones, robots, real time software, AI and computer vision projects.
 - 📫 How to reach me: https://www.linkedin.com/in/juan-pedro-baena-cassal/
