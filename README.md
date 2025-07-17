@@ -8,7 +8,7 @@
   <li>👋 I’m Electronic Engineer, Data Scientist and Master's student in Electronic and Computer Engineering.</li>
   <li>✈️ I currently work at an Aeronautical company with <img src="https://cdn-icons-png.flaticon.com/512/1055/1055644.png" width="18"/> critical embedded software projects.</li>
   <li>👀 I’m interested in disruptive technologies, innovation, development and making things happen!</li>
-  <li>🚀 I love learning all about critical embedded systems, especially <strong>bare metal C/C++</strong>, low-level assembly programming, and software testing tools with <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="18"/> Python.</li>
+  <li>🚀 I love learning all about critical embedded systems, especially <strong>bare metal C/C++</strong>, low-level assembly programming, software testing tools with <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="18"/> Python and tests with hardware in the loop.</li>
   <li>⚙️ I’m looking to collaborate on interesting and innovative projects.</li>
   <li>🤖 I also love drones, robots, real-time software, AI and computer vision projects.</li>
   <li>📫 How to reach me: <a href="https://www.linkedin.com/in/juan-pedro-baena-cassal/" target="_blank">LinkedIn</a></li>
