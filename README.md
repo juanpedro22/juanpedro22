@@ -8,8 +8,9 @@
   <li>👋 I’m Electronic Engineer, Data Scientist and Master's student in Electronic and Computer Engineering.</li>
   <li>✈️ I currently work at an Aeronautical company with <img src="https://cdn-icons-png.flaticon.com/512/1055/1055644.png" width="18"/> critical embedded software projects.</li>
   <li>👀 I’m interested in disruptive technologies, innovation, development and making things happen!</li>
-  <li>🚀 I love learning all about critical embedded systems, especially <strong>bare metal C/C++</strong>, low-level assembly programming, software testing tools with <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="18"/> Python and tests with hardware in the loop.</li>
+  <li>🚀 I love learning all about critical embedded systems, especially <strong>bare metal C/C++</strong>, low-level assembly programming and debugging, software testing tools with <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="18"/> Python and tests with hardware in the loop.</li>
   <li>⚙️ I’m looking to collaborate on interesting and innovative projects.</li>
+  <li>RISC architecture enthusiast, focusing on ARM and RISC-V.</li>
   <li>🤖 I also love drones, robots, real-time software, AI and computer vision projects.</li>
   <li>📫 How to reach me: <a href="https://www.linkedin.com/in/juan-pedro-baena-cassal/" target="_blank">LinkedIn</a></li>
   <li>🤖 Take a peek at my website: <a href="https://juanpedro22.github.io/juanpedro/" target="_blank">juanpedro22.github.io</a></li>
@@ -17,11 +18,12 @@
 
 <h3>Things I code with</h3>
 <p>
-  <img alt="C" src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
+  <img alt="Embedded" src="https://img.shields.io/badge/Embedded-C_Programming-critical?style=flat-square&logo=c" />
   <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
   <img alt="Assembly" src="https://img.shields.io/badge/Assembly-444444?style=flat-square&logo=gear&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img alt="MATLAB" src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white" />
+  <img alt="ARM" src="https://img.shields.io/badge/Architecture-ARM-blue?style=flat-square&logo=arm" />
   <img alt="SCADE" src="https://img.shields.io/badge/SCADE-003366?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgaGVpZ2h0PSIxMCIgd2lkdGg9IjEwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxjaXJjbGUgY3g9IjUiIGN5PSI1IiByPSI1IiBmaWxsPSIjMDAzNjY2Ii8+PC9zdmc+" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
