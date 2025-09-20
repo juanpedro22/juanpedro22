@@ -14,6 +14,7 @@
   <li>🤖 I also love drones, robots, real-time software, AI and computer vision projects.</li>
   <li>📫 How to reach me: <a href="https://www.linkedin.com/in/juan-pedro-baena-cassal/" target="_blank">LinkedIn</a></li>
   <li>🤖 Take a peek at my website: <a href="https://juanpedro22.github.io/juanpedro/" target="_blank">juanpedro22.github.io</a></li>
+  <li>🎓 Real-time systems projects with MBD for the master's course EA235:<a href="https://sites.google.com/view/juanpedro-projeto-spgb-tr/home" target="_blank"> juanpedro-projeto-spgb-tr/home</a></li>
 </ul>
 
 <h3>Things I code with</h3>
